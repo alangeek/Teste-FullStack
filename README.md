@@ -1,5 +1,8 @@
 # Teste FullStack
 
+![Cadastro-de-clintes](https://user-images.githubusercontent.com/48631681/175838333-507fb71b-338c-4127-a9f5-6f57b7bfe5a2.png)
+
+
 Segue abaixo as instruções para realizar o teste:
 Teste FullStack: Criar um CRUD de clientes. Pode ser básico, CPF, Nome, Email, Telefone, etc
 
